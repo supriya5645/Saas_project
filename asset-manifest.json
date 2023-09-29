@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Saas_project/static/css/main.01ab25d7.css",
+    "main.css": "/Saas_project/static/css/main.c9ba40ad.css",
     "main.js": "/Saas_project/static/js/main.e9758072.js",
     "index.html": "/Saas_project/index.html",
-    "main.01ab25d7.css.map": "/Saas_project/static/css/main.01ab25d7.css.map",
+    "main.c9ba40ad.css.map": "/Saas_project/static/css/main.c9ba40ad.css.map",
     "main.e9758072.js.map": "/Saas_project/static/js/main.e9758072.js.map"
   },
   "entrypoints": [
-    "static/css/main.01ab25d7.css",
+    "static/css/main.c9ba40ad.css",
     "static/js/main.e9758072.js"
   ]
 }

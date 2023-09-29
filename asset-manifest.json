@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/supriya5645/Saas_project.git/static/css/main.02b0cafe.css",
-    "main.js": "/supriya5645/Saas_project.git/static/js/main.1d786b8b.js",
-    "index.html": "/supriya5645/Saas_project.git/index.html",
-    "main.02b0cafe.css.map": "/supriya5645/Saas_project.git/static/css/main.02b0cafe.css.map",
-    "main.1d786b8b.js.map": "/supriya5645/Saas_project.git/static/js/main.1d786b8b.js.map"
+    "main.css": "/supriya5645/static/css/main.02b0cafe.css",
+    "main.js": "/supriya5645/static/js/main.1d786b8b.js",
+    "index.html": "/supriya5645/index.html",
+    "main.02b0cafe.css.map": "/supriya5645/static/css/main.02b0cafe.css.map",
+    "main.1d786b8b.js.map": "/supriya5645/static/js/main.1d786b8b.js.map"
   },
   "entrypoints": [
     "static/css/main.02b0cafe.css",
